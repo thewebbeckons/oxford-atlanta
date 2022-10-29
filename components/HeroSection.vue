@@ -17,7 +17,7 @@
     </div>  -->
     <h1 class="text-[28px] lg:text-[36px] font-bold pb-8 leading-snug lg:leading-tight">
       Global Asset Management Committee 2022<br>
-      <span class="font-light text-[24px] lg:text-[36px]">Tomorrow, built today</span>
+      <span class="font-thin text-[24px] lg:text-[36px]">Tomorrow, built today</span>
     </h1>
   </div>
 </template>

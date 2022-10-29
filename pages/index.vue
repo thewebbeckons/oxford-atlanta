@@ -17,10 +17,6 @@
 
 <style>
 
-h1 {
-  font-family: Arial, sans-serif;
-  font-weight: 600;
-}
 html {
   scroll-behavior: smooth;
 }
