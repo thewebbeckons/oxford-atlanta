@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@headlessui/vue": "^1.7.3",
-    "@nuxtjs/tailwindcss": "^5.3.5"
+    "@nuxtjs/tailwindcss": "^5.3.5",
+    "vue-gtag": "^2.0.1"
   }
 }
