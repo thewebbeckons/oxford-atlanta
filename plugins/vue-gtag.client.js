@@ -3,7 +3,7 @@ import VueGtag from 'vue-gtag'
 export default defineNuxtPlugin((nuxtApp) => {
     nuxtApp.vueApp.use(VueGtag, {
         config: {
-            id: '339854779',
+            id: 'G-G4XJRH60R6',
         },
     }, nuxtApp.$router)
 })
