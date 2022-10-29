@@ -1,5 +1,5 @@
 <template>
-  <div class="relative">
+  <div class="relative bg-dark">
     <div class="absolute inset-0">
       <img src="~/assets/atlanta-skyline-lg.jpg" alt="Atlanta"
       class="h-full w-full absolute object-cover opacity-[25%]">
@@ -10,7 +10,7 @@
     <HeroSection />
   </div>
   <IntroSection />
-  <div class="space-y-4 lg:space-y-8">
+  <div class="space-y-12 lg:space-y-16">
     <SectionsLocation />
     <SectionsSchedule />
     <SectionsAttractions />

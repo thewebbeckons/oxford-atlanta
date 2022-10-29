@@ -1,11 +1,11 @@
 <template>
-  <div class="bg-dark">
+  <div class="bg-white">
     <NuxtPage />
     <AppFooter />
   </div>
 </template>
 <style>
 .bg-dark {
-  background-color: #35495a;
+  background-color: #355a46;
 }
 </style>

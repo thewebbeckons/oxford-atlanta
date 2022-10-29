@@ -23,17 +23,17 @@
             <MenuItem>
               <a
                 class="group flex w-full items-center rounded-md px-2 py-2 text-sm text-white"
-                href="#schedule"
+                href="#locations"
               >
-                Schedule
+                Locations
               </a>
             </MenuItem>
             <MenuItem>
               <a
                 class="group flex w-full items-center rounded-md px-2 py-2 text-sm text-white"
-                href="#locations"
+                href="#schedule"
               >
-                Locations
+                Agenda
               </a>
             </MenuItem>
             <MenuItem>
