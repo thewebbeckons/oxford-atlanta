@@ -3,8 +3,6 @@
     <div class="absolute inset-0">
       <img src="~/assets/atlanta-skyline-lg.jpg" alt="Atlanta"
       class="h-full w-full absolute object-cover opacity-[25%]">
-      <img src="~/assets/gradient.jpg" alt=""
-      class="h-full w-full absolute object-cover grayscale opacity-[10%]">
     </div>
     <MainNav />
     <HeroSection />
