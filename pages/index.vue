@@ -16,9 +16,9 @@
 </template>
 
 <style>
-@import url('http://fonts.cdnfonts.com/css/neue-haas-grotesk-display-pro');
+
 h1 {
-  font-family: 'Neue Haas Grotesk Display Pro', sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 600;
 }
 html {
