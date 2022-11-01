@@ -55,8 +55,8 @@
       type: 'talk',
       startTime: '3:30',
       endTime: '4:30 PM',
-      title: 'Value Creation Plan & Implementation',
-      people: 'Jay J. | Annie X.'
+      title: 'Avalon Presentation',
+      people: 'John K.'
     },
     {
       type: 'talk',
@@ -83,7 +83,7 @@
     {
       type: 'talk',
       startTime: '8:00',
-      endTime: '9:00 AM',
+      endTime: '8:45 AM',
       title: 'IDI Presentation',
       people: 'IDI'
     },
@@ -92,7 +92,7 @@
       startTime: '9:00 AM',
       endTime: '12:00 PM',
       title: 'Site Tour',
-      people: 'Jason P. | Peter Z.'
+      people: 'Jason P. | Sherif M.'
     },
     {
       type: 'break',
@@ -103,40 +103,40 @@
     {
       type: 'talk',
       startTime: '1:00',
-      endTime: '1:30 PM',
+      endTime: '2:00 PM',
+      title: 'Value Creation Plan & Implementation',
+      people: 'Jay J. | Annie X.'
+    },
+    {
+      type: 'talk',
+      startTime: '2:00',
+      endTime: '2:30 PM',
       title: 'Property Insights, Benchmarking and Optimization',
       people: 'Jay J.'
     },
     {
       type: 'talk',
-      startTime: '1:30',
-      endTime: '2:20 PM',
+      startTime: '2:30',
+      endTime: '3:20 PM',
       title: 'Asset Management KPIs – Part 1',
       people: 'Nadia C. | Annie X.'
     },
     {
       type: 'break',
-      startTime: '2:20',
-      endTime: '2:35 PM',
+      startTime: '3:20',
+      endTime: '3:30 PM',
       title: 'Break'
     },
     {
       type: 'talk',
-      startTime: '2:35',
-      endTime: '3:45 PM',
+      startTime: '3:30',
+      endTime: '4:30 PM',
       title: 'Asset Management KPIs – Part 2',
       people: 'Nadia C. | Annie X.'
     },
     {
       type: 'talk',
-      startTime: '3:45',
-      endTime: '4:45 PM',
-      title: 'Enable Portfolio View',
-      people: 'Jay J. | Annie X.'
-    },
-    {
-      type: 'talk',
-      startTime: '4:45',
+      startTime: '4:30',
       endTime: '5:00 PM',
       title: 'Proposed Next Steps',
       people: 'Annie X.'
